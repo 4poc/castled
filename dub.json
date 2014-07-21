@@ -1,0 +1,9 @@
+{
+	"name": "castled",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2014, apoc",
+	"authors": ["apoc"],
+	"dependencies": {
+        "ncurses": "~master"
+	}
+}
